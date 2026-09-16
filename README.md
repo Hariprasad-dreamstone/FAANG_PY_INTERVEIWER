@@ -21,5 +21,4 @@ Large Language Models (LLMs) are inherently amnesic. This project overcomes that
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/faang-interview-simulator.git](https://github.com/YO/faang-interview-simulator.git)
-   cd faang-interview-simulator
+   git clone [https://github.com/Hariprasad-dreamstone/FAANG_PY_INTERVEIWER]
